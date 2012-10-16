@@ -1,2 +1,29 @@
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Sublime
+*.sublime-workspace
+
+# SASS
+.sass-cache
+
+# Expresss Engine:Images
+# images/avatars/
+# images/captchas/
+# images/smileys/
+# images/member_photos/
+# images/signature_attachments/
+# images/pm_attachments/
+
+# Expresss Engine: Caches
+# sized/
+# thumbs/
+# _thumbs/
+# */expressionengine/cache/*
