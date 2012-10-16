@@ -1,3 +1,5 @@
+Note: This fork of HTML5 Boilerplate is meant for me to use to start projects. It's definitely not going to be perfect for everyone. Please go to http://html5boilerplate.com
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
